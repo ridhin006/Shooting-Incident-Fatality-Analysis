@@ -55,5 +55,6 @@ scikit-learn
 matplotlib
 seaborn
 
-##To clone the repo:
-git clone https://github.com/yourusername/shooting-incident-fatality-analysis.git
+
+
+
