@@ -10,7 +10,7 @@ This project analyzes historical NYPD shooting incident data to explore trends a
 - Feature engineering (time encoding, categorical handling)
 - Exploratory Data Analysis (EDA)
 - Model training and evaluation
-- Final insights and conclusion
+- Final insights and conclusion 
 
 ---
 
